@@ -75,6 +75,7 @@ Channel selection and strobing nets that coordinate room/channel addressing and 
 │   └── NTI_SMARTHOME.pdsprj
 │── docs/               # Diagrams, manuals, BOM
 │── screenshots/        # GUI & wiring images
+│── LICENSE.txt         # MIT License
 │── README.md
 ```
 
