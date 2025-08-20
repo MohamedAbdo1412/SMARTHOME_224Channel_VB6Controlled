@@ -102,6 +102,7 @@ Channel selection and strobing nets that coordinate room/channel addressing and 
 ## 📸 Screenshots & Diagrams
 _Add images of the VB6 GUI, Proteus schematic, and wiring as they become available._
 
-## 👨‍💻 Authors
-- Your Name
-- Team Members
+## 👨‍💻 Author
+- NAME : MOHAMED ABDELHAMID AHMED ALI
+- EMAIL : trapcloud8@gmail.com
+- LinkedIn : [Mohamed Abdelhamid](https://www.linkedin.com/in/mohamedabdelhamid2005/)
