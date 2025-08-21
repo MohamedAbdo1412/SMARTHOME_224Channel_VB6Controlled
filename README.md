@@ -101,7 +101,7 @@ Channel selection and strobing nets that coordinate room/channel addressing and 
 > Action: run **Tools → Electrical Rules Check** after fixing labels and verify that sensor outputs are **not shorted** to power rails and that UART lines are cross-connected correctly (PC‑TX → MCU‑RX, PC‑RX → MCU‑TX).
 
 ## 📸 Screenshots & Diagrams
-_Add images of the VB6 GUI, Proteus schematic, and wiring as they become available._
+![VB6_Program](screenshots/1.png)
 
 ## 👨‍💻 Author
 - NAME : MOHAMED ABDELHAMID AHMED ALI
