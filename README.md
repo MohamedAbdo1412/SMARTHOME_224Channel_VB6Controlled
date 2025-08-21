@@ -102,6 +102,14 @@ Channel selection and strobing nets that coordinate room/channel addressing and 
 
 ## 📸 Screenshots & Diagrams
 ![VB6_Program](screenshots/1.png)
+![VB6_Program](screenshots/2.png)
+![VB6_Program](screenshots/3.png)
+![VB6_Program](screenshots/4.png)
+![VB6_Program](screenshots/5.png)
+![VB6_Program](screenshots/6.png)
+![VB6_Program](screenshots/7.png)
+![VB6_Program](screenshots/8.png)
+![VB6_Program](screenshots/9.png)
 
 ## 👨‍💻 Author
 - NAME : MOHAMED ABDELHAMID AHMED ALI
