@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//APP/main.c=UTF-8
+encoding//HAL/DataKeeper/DataKeeper.c=UTF-8
+encoding//HAL/ON_OFF_CHANNELS/onoffch.c=UTF-8
+encoding//HAL/PCA9685/pca9685.c=UTF-8
+encoding//MCAL/ADC/ADC_prog.c=UTF-8
+encoding//MCAL/UART/UART_prog.c=UTF-8
