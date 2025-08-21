@@ -109,7 +109,6 @@ Channel selection and strobing nets that coordinate room/channel addressing and 
 ![VB6_Program](screenshots/6.png)
 ![VB6_Program](screenshots/7.png)
 ![VB6_Program](screenshots/8.png)
-![VB6_Program](screenshots/9.png)
 
 ## 👨‍💻 Author
 - NAME : MOHAMED ABDELHAMID AHMED ALI
