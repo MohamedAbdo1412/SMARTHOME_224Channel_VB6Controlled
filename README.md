@@ -111,6 +111,7 @@ Channel selection and strobing nets that coordinate room/channel addressing and 
 ![VB6_Program](screenshots/8.png)
 
 ## 👨‍💻 Author
-- NAME : MOHAMED ABDELHAMID AHMED ALI
+- NAME : Mohamed Abdelhamid Ahmed Ali
+- Ungraduated Communication and Electronics Engineer ( Zagazig University Egypt )
 - EMAIL : trapcloud8@gmail.com
 - LinkedIn : [Mohamed Abdelhamid](https://www.linkedin.com/in/mohamedabdelhamid2005/)
